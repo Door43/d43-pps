@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[pps:home|Door43 (pps)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-pps|d43-pps repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-pps/archive/master.zip|d43-pps.zip]]
+
+**Recent Changes**
+{{changes>ns = pps}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/pps|Ethnologue data]]
+
